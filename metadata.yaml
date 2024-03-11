@@ -1,0 +1,32 @@
+_repo: An-account-of-the-empire-of-Marocco-and-the-districts-of-Suse-and-Tafilelt-compiled-from-misc__73120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, James Grey
+    gutenberg_agent_id: '25459'
+    url: http://www.gutenberg.org/2009/agents/25459
+description: ''
+gutenberg_issued: '2024-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73120'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hnfeag
+pgterms:marc905: 20240101231723jackson
+pgterms:marc906: '1811'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bibliothèque nationale de France/Gallica, the Digitální knihovna
+  Kramerius Univerzity Karlovy and the Royal Collection Trust)
+publication_note: '  $aLondon :$bPrinted for the author by W. Bulmer and Co., $c1811.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An account of the empire of Marocco, and the districts of Suse and Tafilelt;
+  compiled from miscellaneous observations made during a long residence in, and various
+  journies through, these countries. To which is added an account of shipwrecks on
+  the western coast of Africa, and an interesting account of Timbuctoo, the great
+  emporium of Central Africa
+url: http://www.gutenberg.org/ebooks/73120
