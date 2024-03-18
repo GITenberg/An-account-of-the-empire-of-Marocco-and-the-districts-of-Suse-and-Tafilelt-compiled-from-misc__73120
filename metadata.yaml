@@ -1,11 +1,16 @@
 _repo: An-account-of-the-empire-of-Marocco-and-the-districts-of-Suse-and-Tafilelt-compiled-from-misc__73120
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73120-h/images/cover.jpg
 creator:
   author:
     agent_name: Jackson, James Grey
     gutenberg_agent_id: '25459'
     url: http://www.gutenberg.org/2009/agents/25459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73120#An-account-of-the-empire-of-Marocco-and-the-districts-of-Suse-and-Tafilelt-compiled-from-misc_
 gutenberg_issued: '2024-03-08'
 gutenberg_type: Text
 identifiers:
